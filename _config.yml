@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:contact@maheshyadav.com.np
+       url: "mailto:contact@maheshyadav.com.np"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://www.maheshyadav.com.np"
