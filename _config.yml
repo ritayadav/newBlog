@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@maheshyadav.com.np"
+      # url: "mailto:contact@maheshyadav.com.np"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.maheshyadav.com.np"
@@ -132,6 +132,19 @@ author:
     - label: "Google+"
       icon: "fab fa-fw fa-google-plus-square"
       url: "https://www.linkedin.com/in/maheshdharhari"
+    - label: "Dribble"
+      icon: "fab fa-fw fa-dribbble-square"
+      url: "https://www.linkedin.com/in/maheshdharhari"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-dribbble-square"
+      url: "https://www.linkedin.com/in/maheshdharhari"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-dribbble-square"
+      url: "https://www.linkedin.com/in/maheshdharhari"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-dribbble-square"
+      url: "https://www.linkedin.com/in/maheshdharhari"
+
 
 # Site Footer
 footer:
