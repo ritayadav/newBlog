@@ -136,13 +136,13 @@ author:
       icon: "fab fa-fw fa-dribbble-square"
       url: "https://www.linkedin.com/in/maheshdharhari"
     - label: "Pinterest"
-      icon: "fab fa-fw fa-dribbble-square"
+      icon: "fab fa-fw fa-pinterest-square"
       url: "https://www.linkedin.com/in/maheshdharhari"
     - label: "Youtube"
-      icon: "fab fa-fw fa-dribbble-square"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://www.linkedin.com/in/maheshdharhari"
     - label: "Flickr"
-      icon: "fab fa-fw fa-dribbble-square"
+      icon: "fab fa-fw fa-flickr"
       url: "https://www.linkedin.com/in/maheshdharhari"
 
 
