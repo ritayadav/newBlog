@@ -128,7 +128,10 @@ author:
       url: "https://instagram.com/maheshdharhari"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/maheshdharhari"
+      url: "https://www.linkedin.com/in/maheshdharhari"
+    - label: "Google+"
+      icon: "fab fa-fw fa-google-plus-square"
+      url: "https://www.linkedin.com/in/maheshdharhari"
 
 # Site Footer
 footer:
