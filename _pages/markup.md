@@ -6,3 +6,4 @@ taxonomy: markup
 ---
 
 Sample post listing for the tag `markup`.
+
