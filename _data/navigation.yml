@@ -6,8 +6,8 @@ main:
     url: https://gallery.maheshyadav.com.np/
   - title: "Apps"
     url: https://apps.maheshyadav.com.np/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
